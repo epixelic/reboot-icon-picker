@@ -1,0 +1,22 @@
+{
+  "name": "reboot-icon-picker",
+  "version": "0.1.0",
+  "description": "Reboot icon picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/epixelic/reboot-icon-picker.git"
+  },
+  "keywords": [
+    "reboot"
+  ],
+  "author": "Benoit Branchard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/epixelic/reboot-icon-picker/issues"
+  },
+  "homepage": "https://github.com/epixelic/reboot-icon-picker#readme"
+}
