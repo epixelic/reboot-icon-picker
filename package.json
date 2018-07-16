@@ -25,6 +25,7 @@
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
     "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
     "eslint": "^5.1.0",
     "webpack": "^4.15.1",
     "webpack-cli": "^3.0.8",
@@ -35,7 +36,6 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-loader": "^2.4.5",
-    "react-popover": "^0.5.7",
-    "react-simple-popover": "^0.2.4"
+    "react-overlays": "^0.8.3"
   }
 }

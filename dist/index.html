@@ -13,9 +13,10 @@
 <body>
     <input style="margin-top: 200px; display: block; width: 200px;" type="text" id="services_section_form_services_0_service_item_optional_group_icon_optional_icon" name="services_section_form[services][0][service_item_optional_group][icon_optional][icon]" class="behavior-reboot-iconpicker optional-form-input col-md-12 form-control" value="{&quot;pack&quot;:&quot;font-awesome-5-regular&quot;,&quot;icon&quot;:&quot;fa-bomb&quot;}">
     <input style="margin-top: 200px; display: block; width: 200px;" type="text" id="services_section_form_services_0_service_item_optional_group_icon_optional_icon" name="services_section_form[services][0][service_item_optional_group][icon_optional][icon]" class="behavior-reboot-iconpicker optional-form-input col-md-12 form-control" value="{&quot;pack&quot;:&quot;font-awesome-4&quot;,&quot;icon&quot;:&quot;fa-pencil-square-o&quot;}">
+    <input style="margin-top: 200px; display: block; width: 200px;" type="text" id="services_section_form_services_0_service_item_optional_group_icon_optional_icon" name="services_section_form[services][0][service_item_optional_group][icon_optional][icon]" class="behavior-reboot-iconpicker optional-form-input col-md-12 form-control" value="{&quot;pack&quot;:&quot;font-awesome-5-light&quot;,&quot;icon&quot;:&quot;fa-bomb&quot;}">
     <script>
         document.addEventListener('DOMContentLoaded', function(event) {
-            rebootIconPicker();
+            rebootIconPicker('http://localhost:3000/iconpacklist', '.behavior-reboot-iconpicker');
         });
     </script>
 </body>
