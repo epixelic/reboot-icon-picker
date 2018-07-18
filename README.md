@@ -1,2 +1,3 @@
 # reboot-icon-picker
-No description yet
+![home](https://github.com/epixelic/reboot-icon-picker/blob/master/doc/screenshot.png)
+
