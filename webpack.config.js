@@ -6,7 +6,7 @@ module.exports = {
         filename: 'reboot-icon-picker.js',
         path: path.join(__dirname, 'dist'),
         libraryTarget: 'umd',
-        library: 'rebootIconPicker'
+        library: 'RebootIconPicker'
     },
     module: {
         rules: [
