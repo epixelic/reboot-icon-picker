@@ -54,3 +54,9 @@
   ]
 }
 ```
+
+Mobile debug provided by **BrowserStack** :
+
+<p align="center"><a href="http://browserstack.com/" target="_blank">
+    <img src="https://github.com/epixelic/reboot-icon-picker/blob/master/doc/browserstack-logo-600x315.png">
+</a></p>
