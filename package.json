@@ -1,6 +1,6 @@
 {
   "name": "reboot-icon-picker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reboot icon picker",
   "main": "index.js",
   "scripts": {
